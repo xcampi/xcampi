@@ -17,6 +17,6 @@ Programming Languages 💻
 ---
 Cpp, JavaScript, Kotlin, Sql, Html, Css, Ruby, Groovy, Haskell, Malbolge, Brainfuck and a few more.
 
-Contact me
+Contact me 📞
 ---
 Instagram: @xcampi_ || Twitter: @xcampi_ || Discord: Campi#0629 || Guilded: guilded.gg/Campi || Email: campi.bcontact@gmail.com
