@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @xcampi
-- 👀 I’m interested in RedHat and Unity
-- 🌱 I’m currently learning Sql and Ruby
-- 📫 How to reach me? By my Website, simply go to my Social Media and message me
+Campi (@xcampi)
+---
+About
+---
+I'm a Web and Game Developer.
+I work as an WhiteHat Hacker in a few local companies.
 
-<!---
-xcampi/xcampi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently learning
+---
+How to use Arch OS, MySQL, Python and Unity.
+
+Skills
+---
+Web Development (85/100) || Ethical Hacking (90/100) || Game Development (95/100) || Unity (70/100) || Unreal Engine (85/100) || Adobe PS (90/100)
+
+Programming Languages
+---
+Cpp, JavaScript, Kotlin, Sql, Html, Css, Ruby, Groovy, Haskell, Malbolge, Brainfuck and a few more.
