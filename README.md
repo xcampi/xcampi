@@ -2,12 +2,12 @@
 <br>
 
 ## :sassy_man:  About me
-- :trophy: `Certified Developer by NeoTeric` November 2021
+- :trophy: `Certified Developer`
 - :technologist: I love using Code as a solution for every `Problem`
 - :computer: I am a director and programmer mainly at `StørmAcademy`
 - :student: I’m currently learning: `Ethical Hacking` and `Front-End Development`.
-- :thinking: I’m currently open for: `Partnerships` or a new `Friend`.
-- :nerd_face: Always `Always learning new things`
+- :thinking: I’m currently open for: `Collabs` or a new `Partnership`.
+- :nerd_face: Always `learning new things`
 
 <br>
 
