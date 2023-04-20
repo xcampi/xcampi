@@ -4,7 +4,7 @@
 ## :sassy_man:  About me
 - :trophy: `2019 ASME Nadai Medal, @BorgWarnerDepartment`
 - :technologist: `Game, Web and OS Developer`
-- :computer: Software & Programming Engineer
+- :computer: `Software & Programming Engineer`
 - :student: I’m currently learning: `Ethical Hacking` and `Front-End Development`.
 - :thinking: Looking for `Contributions` and `Partnerships`
 - :nerd_face: Always `learning new things`
