@@ -2,11 +2,11 @@
 <br>
 
 ## :sassy_man:  About me
-- :trophy: `Certified Developer`
-- :technologist: I love using Code as a solution for every `Problem`
-- :computer: I am a director and programmer mainly at `StørmAcademy`
+- :trophy: `2019 ASME Nadai Medal, @BorgWarnerDepartment`
+- :technologist: `Game, Web and OS Developer`
+- :computer: 
 - :student: I’m currently learning: `Ethical Hacking` and `Front-End Development`.
-- :thinking: I’m currently open for: `Collabs` or a new `Partnership`.
+- :thinking: Looking for `Contributions` and `Partnerships`
 - :nerd_face: Always `learning new things`
 
 <br>
