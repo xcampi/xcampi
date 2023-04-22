@@ -2,7 +2,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :trophy: `2019 ASME Nadai Medal, @BorgWarnerDepartment`
+- :trophy: `Certified A++ Full-Stack Developer by CIW & NeoTeric`
 - :technologist: `Game, Web and OS Developer`
 - :computer: `Software & Programming Engineer`
 - :student: I’m currently learning: `Ethical Hacking` and `Front-End Development`.
