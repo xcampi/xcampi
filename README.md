@@ -2,7 +2,10 @@
 <br>
 
 ## :sassy_man:  About me
-- :trophy: `CWI Certification`
+- :trophy: `Virden Manitoba Uni - Software & Programming Engineering Masters Degree
+´
+- 🏆: ´x2 AWS Certified Welding Inspector Certified (2022-2023)´
+- 🏆: ´x4 NeoTeric Certified Developer (2020-2023)´
 - :technologist: `Game, Web and OS Developer`
 - :computer: `Software & Programming Engineer`
 - :student: I’m currently learning: `Ethical Hacking` and `Front-End Development`.
