@@ -8,7 +8,7 @@
 - :computer: `Software & Programming Engineer`
 - :student: Learning how to use `ParrotOS`
 - :thinking: Looking for `Contributions` and `Partnerships`
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always learning new things
 
 <br>
 
