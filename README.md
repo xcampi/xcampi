@@ -3,11 +3,6 @@
 
 ## :sassy_man:  About me
 - :trophy: `Virden Manitoba Uni - Software & Programming Engineering Masters Degree`
-- 🏆 `x2 AWS Certified Welding Inspector Certified (2022-2023)`
-- 🏆 `x4 NeoTeric Certified Developer (2020-2023)`
-- :computer: `Software & Programming Engineer`
-- :student: Learning how to use `ParrotOS`
-- :thinking: Looking for `Contributions` and `Partnerships`
 - :nerd_face: Always learning new things
 
 <br>
