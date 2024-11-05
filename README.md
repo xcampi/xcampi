@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Campi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
+# THIS IS OUTDATED, HAVEN'T UPDATED IN NEARLY 3 YEARS (can't be bothered to do so, do not use this often)
 ## :sassy_man:  About me
 - :trophy: `Virden Manitoba Uni - Software & Programming Engineering Masters Degree`
 - :nerd_face: Always learning new things
