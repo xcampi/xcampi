@@ -3,7 +3,6 @@
 
 # THIS IS OUTDATED, HAVEN'T UPDATED IN NEARLY 3 YEARS (can't be bothered to do so, do not use this often)
 ## :sassy_man:  About me
-- :trophy: `Virden Manitoba Uni - Software & Programming Engineering Masters Degree`
 - :nerd_face: Always learning new things
 
 <br>
